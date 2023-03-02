@@ -27,7 +27,7 @@
                 <h1 class="display-1 fw-bold">ERRO</h1>
                 <p class="fs-3"> <span class="text-danger">Opps!</span> Página não encontrada.</p>
                 <p class="lead">
-                   Essa pagina aparentemente não existe.
+                   Essa página aparentemente não existe.
                   </p>
                 <a href="index.php" class="btn btn-primary">Voltar para a página inicial.</a>
                 
